@@ -38,7 +38,7 @@ body {
     font-family: Cursed Timer ULiL;
 }
 
-#buttonStyle{
+#buttonStyle, #reset{
     border: 1px solid #9AABD8;
     border-radius: 3px;
     padding: 5px;

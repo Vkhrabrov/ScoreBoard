@@ -32,3 +32,10 @@ function Point32(){
     score2 = score2 + 3
     scoreTeam2.textContent = score2
 }
+
+function resetBtn(){
+    score1 = 0
+    score2 = 0
+    scoreTeam1.textContent = score1
+    scoreTeam2.textContent = score2
+}
